@@ -1,4 +1,4 @@
-# 🕶️ The Network Godfather (عرّاب الشبكة)
+# 🕶️ The Network Godfather
 
 > **"I'm gonna make your network an offer it can't refuse: Efficiency or Deactivation."**
 
@@ -45,4 +45,5 @@ git clone [https://github.com/Ahmed-Chaouli/network-godfather.git](https://githu
 cd network-godfather
 
 # Run the Audit for a specific region
+
 python main.py --region "Paris" --action "audit"
